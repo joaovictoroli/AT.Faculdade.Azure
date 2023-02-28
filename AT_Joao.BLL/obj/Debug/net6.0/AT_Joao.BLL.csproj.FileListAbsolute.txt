@@ -1,0 +1,12 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\bin\Debug\net6.0\AT_Joao.BLL.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\bin\Debug\net6.0\AT_Joao.BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\bin\Debug\net6.0\AT_Joao.BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\AT_Joao.BLL.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\AT_Joao.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\AT_Joao.BLL.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\AT_Joao.BLL.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\AT_Joao.BLL.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\AT_Joao.BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\refint\AT_Joao.BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\AT_Joao.BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.BLL\obj\Debug\net6.0\ref\AT_Joao.BLL.dll

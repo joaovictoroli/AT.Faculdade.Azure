@@ -1,0 +1,17 @@
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\bin\Debug\net6.0\AT_Joao.DAL.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\bin\Debug\net6.0\AT_Joao.DAL.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\bin\Debug\net6.0\AT_Joao.DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\bin\Debug\net6.0\AT_Joao.DAL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\bin\Debug\net6.0\AT_Joao.BLL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\bin\Debug\net6.0\AT_Joao.BLL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.csproj.CopyComplete
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\refint\AT_Joao.DAL.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\AT_Joao.DAL.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\AT_Joao_WCF_AZURE\AT_Joao.DAL\obj\Debug\net6.0\ref\AT_Joao.DAL.dll
